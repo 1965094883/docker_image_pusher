@@ -4,3 +4,4 @@ node:18.20.5
 nginx:1.25.3
 emlog/emlog:pro-latest-php7.4-apache
 itushan/mtab
+mysql:8.4.0
